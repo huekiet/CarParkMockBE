@@ -1,0 +1,16 @@
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.Service.deps.json
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.Service.dll
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\ref\CoreApp.Service.dll
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.Service.pdb
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.dto.dll
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.dto.pdb
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\bin\Debug\net5.0\CoreApp.Model.pdb
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.csproj.AssemblyReference.cache
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.AssemblyInfoInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.AssemblyInfo.cs
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.csproj.CoreCompileInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.dll
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\ref\CoreApp.Service.dll
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\net5.0\CoreApp.Service.pdb

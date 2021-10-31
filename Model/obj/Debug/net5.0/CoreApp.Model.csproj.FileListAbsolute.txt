@@ -1,0 +1,14 @@
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\net5.0\CoreApp.Model.deps.json
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\net5.0\CoreApp.Model.runtimeconfig.json
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\net5.0\CoreApp.Model.runtimeconfig.dev.json
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\net5.0\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\net5.0\ref\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\net5.0\CoreApp.Model.pdb
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.AssemblyInfoInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.AssemblyInfo.cs
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.csproj.CoreCompileInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\ref\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.pdb
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\net5.0\CoreApp.Model.genruntimeconfig.cache

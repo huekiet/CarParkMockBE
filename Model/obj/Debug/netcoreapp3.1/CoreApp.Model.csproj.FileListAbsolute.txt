@@ -1,0 +1,13 @@
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\netcoreapp3.1\CoreApp.Model.deps.json
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\netcoreapp3.1\CoreApp.Model.runtimeconfig.json
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\netcoreapp3.1\CoreApp.Model.runtimeconfig.dev.json
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\netcoreapp3.1\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\Model\bin\Debug\netcoreapp3.1\CoreApp.Model.pdb
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.AssemblyInfoInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.AssemblyInfo.cs
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.csproj.CoreCompileInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.dll
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.pdb
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.genruntimeconfig.cache
+F:\workspace\study\C#\Code\CarParkProject\Model\obj\Debug\netcoreapp3.1\CoreApp.Model.csproj.AssemblyReference.cache

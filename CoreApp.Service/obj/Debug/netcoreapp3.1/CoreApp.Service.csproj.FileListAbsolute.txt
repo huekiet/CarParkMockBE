@@ -1,0 +1,5 @@
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\netcoreapp3.1\CoreApp.Service.csproj.AssemblyReference.cache
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\netcoreapp3.1\CoreApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\netcoreapp3.1\CoreApp.Service.AssemblyInfoInputs.cache
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\netcoreapp3.1\CoreApp.Service.AssemblyInfo.cs
+F:\workspace\study\C#\Code\CarParkProject\CoreApp.Service\obj\Debug\netcoreapp3.1\CoreApp.Service.csproj.CoreCompileInputs.cache

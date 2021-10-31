@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CarParkProject.csproj": {}
+  },
+  "projects": {
+    "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CarParkProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CarParkProject.csproj",
+        "projectName": "CarParkProject",
+        "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CarParkProject.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj": {
+                "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj"
+              },
+              "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj": {
+                "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj"
+              },
+              "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Service\\CoreApp.Service.csproj": {
+                "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Service\\CoreApp.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[3.1.18, 3.1.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj",
+        "projectName": "CoreApp.Data",
+        "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj",
+        "projectName": "CoreApp.dto",
+        "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Service\\CoreApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Service\\CoreApp.Service.csproj",
+        "projectName": "CoreApp.Service",
+        "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Service\\CoreApp.Service.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj": {
+                "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.Data\\CoreApp.Data.csproj"
+              },
+              "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj": {
+                "projectPath": "F:\\workspace\\study\\C#\\Code\\CarParkProject\\CoreApp.dto\\CoreApp.dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
